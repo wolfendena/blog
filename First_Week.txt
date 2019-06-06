@@ -1,0 +1,8 @@
+Good week outside of monday. Learned all about how computers function an 
+ how to use code to form actions and commands. I created my first functioning
+arcade game, and have installed and worked with Ubuntu. Managed to use code to
+create aliases to increase my speed of commands as well as the creation,  
+movement, and use of files.
+
+
+
